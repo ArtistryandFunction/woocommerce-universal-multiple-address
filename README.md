@@ -1,2 +1,2 @@
 # woocommerce-universal-multiple-address
-Woocommerce plugin inspiredby Hall's Woocommerce Ultimate Multiple Address plugin
+Woocommerce plugin inspired by the WooCommerce Address Book by Hall Internet Marketing plugin.
